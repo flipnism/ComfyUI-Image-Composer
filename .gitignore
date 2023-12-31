@@ -1,0 +1,5 @@
+__pycache__
+source
+web/public/images/*
+web/public/*.ts
+utils.py
